@@ -49,6 +49,10 @@ Low level design (LLD) interview question, design the game of Snake and Ladder
 
 
 
+![class daigram of Snake and ladder](https://github.com/Nirosha-Rayee/Design-a-Snake-and-Ladder/assets/135204611/4529bec7-a960-4a2e-874c-eacc740b6a81)
+
+
+
 
 
 
